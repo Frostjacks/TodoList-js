@@ -1,2 +1,2 @@
 # Todo app with localStorage
-live: https://frostjacks.github.io/TodoList-js/
+live: https://aayush-dhakal.github.io/TodoList-js/
